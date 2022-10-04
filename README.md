@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Oluwapelumi</h1>
-<h3 align="center">A Self Taught Developer and Backend Engineer</h3>
+<h3 align="center">A Self Taught Backend Engineer</h3>
 
 
 - 🔭 I’m Primarily Code In **Golang And Python**

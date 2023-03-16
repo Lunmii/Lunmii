@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwapelumi</h1>
-<h3 align="center">A Self Taught Backend Engineer</h3>
+<h3 align="center">A Self Taught Software Engineer</h3>
 
 - 📫 How to reach me **lumii.dev@gmail.com**
 
